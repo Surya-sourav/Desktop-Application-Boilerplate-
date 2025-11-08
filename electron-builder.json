@@ -1,8 +1,7 @@
 {
-  "appId": "com.desktop.application.boilerplate",
-  "productName": "Desktop Application Boilerplate",
+  "appId": "electron-boilerplate",
+  "productName": "electron-boilerplate",
   "copyright": "Copyright © 2025 Surya",
-  "version": "0.0.1",
   "files": ["dist-electron/**/*", "dist-react/**/*"],
   "win": {
     "target": ["portable", "msi"]
@@ -15,3 +14,5 @@
     "category": "Utility"
   }
 }
+
+
